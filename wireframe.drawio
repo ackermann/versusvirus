@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T14:23:06.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.8.8" etag="xW0XS9aJWSHLQXey1-Q1" type="github"><diagram id="OFcLmNGldEm5wEgTX_I-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-03T14:41:19.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Wrau808p1Xb_QZN68GLU" version="12.8.8" type="github">
+  <diagram id="OFcLmNGldEm5wEgTX_I-" name="Page-1">
+    <mxGraphModel dx="1351" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S05uLYmZ8setJjq9wh1s-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;connectable=0;editable=0;movable=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="1000" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-2" value="Basic Instructions" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F4C5CB;strokeWidth=1;fillColor=#F8D6DA;fontColor=#711623;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="800" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-3" value="Search Challenge" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacingLeft=0;spacing=15;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-4" value="SEARCH" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#6C757D;gradientColor=inherit;fontColor=inherit;fillColor=inherit;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-3">
+          <mxGeometry x="1" width="101" height="40" relative="1" as="geometry">
+            <mxPoint x="-101" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-26" value="CHALLENGES" style="fillColor=#F8F9FA;strokeColor=none;align=left;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-27" value="Topic" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=5;fontColor=#FFFFFF;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-26">
+          <mxGeometry x="1" width="82" height="30" relative="1" as="geometry">
+            <mxPoint x="-281" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-28" value="Topic" style="fillColor=none;strokeColor=none;perimeter=none;whiteSpace=wrap;fontColor=#0085FC;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-26">
+          <mxGeometry x="1" width="81" height="30" relative="1" as="geometry">
+            <mxPoint x="-181" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-29" value="Dropdown" style="fillColor=none;strokeColor=none;perimeter=none;whiteSpace=wrap;fontColor=#0085FC;align=right;spacingRight=20;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-26">
+          <mxGeometry x="1" width="90" height="30" relative="1" as="geometry">
+            <mxPoint x="-100" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-30" value="" style="shape=triangle;direction=south;fillColor=#0085FC;strokeColor=none;perimeter=none;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-29">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-31" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;@fat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Ad leggings keytar, brunch id art party dolor labore. Pitchfork yr enim lo-fi before they sold out qui. Tumblr farm-to-table bicycle rights whatever. Anim keffiyeh carles cardigan. Velit seitan mcsweeney&#39;s photo booth 3 wolf moon irure. Cosby sweater lomo jean shorts, williamsburg hoodie minim qui you probably haven&#39;t heard of them et cardigan trust fund culpa biodiesel wes anderson aesthetic. Nihil tattooed accusamus, cred irony biodiesel keffiyeh artisan ullamco consequat.&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;@mdo&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Veniam marfa mustache skateboard, adipisicing fugiat velit pitchfork beard. Freegan beard aliqua cupidatat mcsweeney&#39;s vero. Cupidatat four loko nisi, ea helvetica nulla carles. Tattooed cosby sweater food truck, mcsweeney&#39;s quis non freegan vinyl. Lo-fi wes anderson +1 sartorial. Carles non aesthetic exercitation quis gentrify. Brooklyn adipisicing craft beer vice keytar deserunt." style="fillColor=none;strokeColor=none;perimeter=none;whiteSpace=wrap;fontColor=#212529;html=1;align=left;verticalAlign=top;spacingRight=25;" vertex="1" parent="1">
+          <mxGeometry width="800" height="310" relative="1" as="geometry">
+            <mxPoint x="180" y="390" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-32" value="" style="html=1;shadow=0;dashed=0;fillColor=#F1F1F1;strokeColor=none;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-31">
+          <mxGeometry x="1" width="20" height="310" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-33" value="" style="fillColor=#C1C1C1;strokeColor=none;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-32">
+          <mxGeometry width="16" height="45" relative="1" as="geometry">
+            <mxPoint x="2" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-34" value="" style="shape=triangle;direction=north;fillColor=#C1C1C1;strokeColor=none;perimeter=none;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-32">
+          <mxGeometry width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="5" y="7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S05uLYmZ8setJjq9wh1s-35" value="" style="shape=triangle;direction=south;fillColor=#505050;strokeColor=none;perimeter=none;" vertex="1" parent="S05uLYmZ8setJjq9wh1s-32">
+          <mxGeometry y="1" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="5" y="-12.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
